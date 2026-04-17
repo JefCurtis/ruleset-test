@@ -4,3 +4,5 @@ This file is in the "loose" ruleset scope. PRs touching only this path should al
 
 ## Test 2 edit
 Attempting self-merge of a PR touching only this path. Expected: merges with no approval required.
+
+- Test with required_approving_review_count=1
