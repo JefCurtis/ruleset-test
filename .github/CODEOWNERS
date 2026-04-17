@@ -1,4 +1,4 @@
 # Only list paths that require code-owner review.
 # Paths NOT listed here have no review requirement.
 
-/schemas/    @octocat
+/schemas/    @JefCurtis
