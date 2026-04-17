@@ -1,5 +1,4 @@
-# Strict paths — require CODEOWNERS review
-/schemas/    @JefCurtis
+# Only list paths that require code-owner review.
+# Paths NOT listed here have no review requirement.
 
-# Editorial paths — CODEOWNERS set for completeness, but loose ruleset doesn't require their review
-/playbook/   @JefCurtis
+/schemas/    @JefCurtis
